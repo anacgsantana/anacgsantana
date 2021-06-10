@@ -15,3 +15,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### Let´s talk! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ana-santanazt/)](https://www.linkedin.com/in/ana-santanazt/)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
