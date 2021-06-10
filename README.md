@@ -8,9 +8,8 @@ I'm really into about solving problems and learning. Always open to new challeng
 
 ### 🌍"The more I know, the more I am" 🧠
 
--   📍  Living in Beagah (Amazing place ❤️)
--   💻   Support Analyst at sambatech  🐝
--   🌈  Programming student at Blue Edtech 💙
+-   💻   Support Analyst at sambatech 
+-   Programming student at Blue Edtech 💙
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
