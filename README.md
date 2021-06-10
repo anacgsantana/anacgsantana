@@ -4,7 +4,7 @@ My name is Ana Trindade 🇧🇷
 
 I´m graduating in Software Analysis and Development and also I´ve been studying hard and soft skils at Blue Edtech.   💻
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+I'm really into about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ### 🌍"The more I know, the more I am" 🧠
 
