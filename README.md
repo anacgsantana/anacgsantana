@@ -1,16 +1,13 @@
-### Hi there 👋
+# How you doing? 
 
-<!--
-**anacgsantana/anacgsantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Carol Trindade. I´m from Brazil![Flag: Brazil on Google ](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/google/3/flag-for-brazil_1f1e7-1f1f7.png)
+I´m graduating in Software Analysis and Development and also I´ve been studying hard and soft skils at Blue Edtech. 
 
-Here are some ideas to get you started:
+I´m learning to learn each time more and I´m really enjoying it. I´m always open to new challenges and opportunities!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### "The more I know, the more I am"
+
+ - From Belo Horizonte / Minas Gerais (Amazing place ❤️)
+ - Support Analyst at sambatech  🐝
+ - Programming student ## [📚](https://emojipedia.org/books/) [💻](https://emojipedia.org/laptop/)
+### Let´s talk!
