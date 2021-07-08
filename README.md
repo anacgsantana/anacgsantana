@@ -8,7 +8,6 @@ I'm really into about solving problems and learning. Always open to new challeng
 
 ### 🌍"The more I know, the more I am" 🧠
 
--   💻   Support Analyst at sambatech 
 -   Programming student at Blue Edtech 💙
 
 <div style="display: inline_block"><br>
