@@ -2,13 +2,11 @@
 
 My name is Ana Trindade 🇧🇷
 
-Graduated in Software Analysis and Development and also I´ve been studying hard and soft skils at Blue Edtech.   💻
+Graduated in Software Analysis and Development..   💻
 
 I'm really into about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ### 🌍"The more I know, the more I am" 🧠
-
--   Programming student at Blue Edtech 💙
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
