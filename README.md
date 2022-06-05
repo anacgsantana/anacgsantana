@@ -2,7 +2,7 @@
 
 My name is Ana Trindade 🇧🇷
 
-Graduated in Software Analysis and Development..   💻
+Graduated in Software Analysis and Development.  💻
 
 I'm really into about solving problems and learning. Always open to new challenges and ready to face changes.
 
@@ -13,6 +13,7 @@ I'm really into about solving problems and learning. Always open to new challeng
   <img align="center" alt="ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
   
   ##
